@@ -1,1 +1,1 @@
-Tribute page
+dedicated tribute page
